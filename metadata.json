@@ -1,0 +1,19 @@
+{
+  "name": "芒小壮 #1",
+  "description": "这是果子宇宙的小职员芒小壮，mangxiaozhuang NFT Collection",
+  "image": "https://raw.githubusercontent.com/xtlingzi-coder/mangxiaozhuangnft/main/mangxiaozhuang.png",
+  "attributes": [
+    {
+      "trait_type": "版本",
+      "value": "1.0"
+    },
+    {
+      "trait_type": "总量",
+      "value": "500份"
+    },
+    {
+      "trait_type": "稀有度",
+      "value": "普通"
+    }
+  ]
+}
